@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GeradordesenhasApplication<geradordesenhas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.senhasfortes.geradordesenhas.GeradordesenhasApplication",
+            "projectName": "geradordesenhas",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
